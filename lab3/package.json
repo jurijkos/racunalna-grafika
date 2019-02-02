@@ -1,0 +1,10 @@
+{
+  "homepage": "https://jurijkos.github.io/pong",
+  "dependencies": {
+    "budo": "^11.6.0",
+    "gh-pages": "^2.0.1"
+  },
+  "scripts": {
+    "start": "budo main2.js --open --live"
+  }
+}
